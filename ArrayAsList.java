@@ -143,14 +143,15 @@ public class ArrayAsList {
         // list.display();
         list.search(100);
 
-        /*
-         * ArrayAsList list=new ArrayAsList(10);
-         * list.addAtLast(10);
-         * list.addAtLast(20);
-         * list.addAtLast(30);
-         * list.display();
-         * list.size();
-         */
+        
+         ArrayAsList list=new ArrayAsList(10);
+         list.addAtLast(10);
+         list.addAtLast(20);
+         list.addAtLast(30);
+         list.display();
+         list.size();
+         
     }
+
 
 }
